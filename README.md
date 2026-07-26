@@ -7,7 +7,7 @@
 🎯 Goal: Become a Full Stack Developer & Open Source Contributor
 
 - 🔭 Currently working on personal projects
-- 🌐 Portfolio: [bibekadk.com](https://bibekadhikari.tech/)
+- 🌐 Portfolio: [bibekadhikari.tech](https://bibekadhikari.tech/)
 - 📫 Reach me: bibekadhikari0763@gmail.com
 - ⚡ Fun fact: I love turning ideas into beautiful websites.
   
@@ -42,4 +42,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Bibek-Adhikari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
