@@ -93,18 +93,73 @@
 
 ---
 
+---
+
 # 🚀 Featured Projects
 
-🌐 **Portfolio Website**
-> https://bibekadhikari.tech
-
-⚛️ Modern React Projects
-
-🎨 UI/UX Design Experiments
-
-📱 React Native Applications
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://chatadk.vercel.app/">ChatADK</a></h3>
+      <p><strong>AI-Powered Assistant Platform</strong></p>
+      <p>Your AI-powered assistant to ask anything, build anything, and create anything. Features CodeAdk (Advanced Compiler), PhotoAdk (AI Image Editor), and ConverterAdk (Polyglot System).</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+      </p>
+      <p>🔗 <a href="https://chatadk.vercel.app/">Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏔️ <a href="https://discovernepal.vercel.app/">Discover Nepal</a></h3>
+      <p><strong>Travel & Tourism Showcase</strong></p>
+      <p>From the world's highest peaks to ancient temples — explore Nepal's diverse landscapes and rich culture. Features destinations like Annapurna, Everest, Pokhara, Chitwan, Kathmandu Valley, and Bhaktapur.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+      </p>
+      <p>🔗 <a href="https://discovernepal.vercel.app/">Live Demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://bcanepal.vercel.app/">BCA Nepal</a></h3>
+      <p><strong>TU BCA Study Hub</strong></p>
+      <p>A dedicated study platform for Tribhuvan University BCA students. Browse semester-specific subjects, open YouTube lectures, and study notes grouped by subject & unit.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/Education-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+      </p>
+      <p>🔗 <a href="https://bcanepal.vercel.app/">Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://csmap.vercel.app/">CS Map</a></h3>
+      <p><strong>Comprehensive CS Learning Platform</strong></p>
+      <p>Master core BCA concepts across 5 subjects, 30 units, and 288+ learning hours. Covers Digital Logic, C Programming, CS Fundamentals, Professional Communication, and Mathematics — with progress tracking and interactive quizzes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/Quiz-FF6F00?style=flat-square&logo=google-forms&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+      </p>
+      <p>🔗 <a href="https://csmap.vercel.app/">Live Demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
+      <h3>🏗️ <a href="https://binayaksuppliers.vercel.app/ne">Binayak Suppliers</a></h3>
+      <p><strong>Construction Materials Business Website</strong></p>
+      <p>A bilingual (Nepali/English) business website for Binayak Suppliers, a trusted construction materials provider in Jhapa, Nepal. Showcasing 10+ years of service, 5000+ satisfied customers, and quality products like cement, rods, pipes, paints, and electrical supplies.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+      </p>
+      <p>🔗 <a href="https://binayaksuppliers.vercel.app/ne">Live Demo</a></p>
+    </td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats
 
