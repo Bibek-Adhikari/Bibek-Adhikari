@@ -95,11 +95,16 @@
 
 ---
 
+---
+
 # 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://chatadk.vercel.app/">
+        <img src="https://image.thum.io/get/width/800/crop/600/viewportWidth/1200/https://chatadk.vercel.app/" alt="ChatADK Screenshot" width="100%"/>
+      </a>
       <h3>🤖 <a href="https://chatadk.vercel.app/">ChatADK</a></h3>
       <p><strong>AI-Powered Assistant Platform</strong></p>
       <p>Your AI-powered assistant to ask anything, build anything, and create anything. Features CodeAdk (Advanced Compiler), PhotoAdk (AI Image Editor), and ConverterAdk (Polyglot System).</p>
@@ -111,6 +116,9 @@
       <p>🔗 <a href="https://chatadk.vercel.app/">Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://discovernepal.vercel.app/">
+        <img src="https://image.thum.io/get/width/800/crop/600/viewportWidth/1200/https://discovernepal.vercel.app/" alt="Discover Nepal Screenshot" width="100%"/>
+      </a>
       <h3>🏔️ <a href="https://discovernepal.vercel.app/">Discover Nepal</a></h3>
       <p><strong>Travel & Tourism Showcase</strong></p>
       <p>From the world's highest peaks to ancient temples — explore Nepal's diverse landscapes and rich culture. Features destinations like Annapurna, Everest, Pokhara, Chitwan, Kathmandu Valley, and Bhaktapur.</p>
@@ -124,6 +132,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://bcanepal.vercel.app/">
+        <img src="https://image.thum.io/get/width/800/crop/600/viewportWidth/1200/https://bcanepal.vercel.app/" alt="BCA Nepal Screenshot" width="100%"/>
+      </a>
       <h3>📚 <a href="https://bcanepal.vercel.app/">BCA Nepal</a></h3>
       <p><strong>TU BCA Study Hub</strong></p>
       <p>A dedicated study platform for Tribhuvan University BCA students. Browse semester-specific subjects, open YouTube lectures, and study notes grouped by subject & unit.</p>
@@ -135,6 +146,9 @@
       <p>🔗 <a href="https://bcanepal.vercel.app/">Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://csmap.vercel.app/">
+        <img src="https://image.thum.io/get/width/800/crop/600/viewportWidth/1200/https://csmap.vercel.app/" alt="CS Map Screenshot" width="100%"/>
+      </a>
       <h3>🗺️ <a href="https://csmap.vercel.app/">CS Map</a></h3>
       <p><strong>Comprehensive CS Learning Platform</strong></p>
       <p>Master core BCA concepts across 5 subjects, 30 units, and 288+ learning hours. Covers Digital Logic, C Programming, CS Fundamentals, Professional Communication, and Mathematics — with progress tracking and interactive quizzes.</p>
@@ -147,7 +161,10 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" colspan="2">
+    <td width="50%" valign="top" colspan="2" align="center">
+      <a href="https://binayaksuppliers.vercel.app/ne">
+        <img src="https://image.thum.io/get/width/1200/crop/600/viewportWidth/1400/https://binayaksuppliers.vercel.app/ne" alt="Binayak Suppliers Screenshot" width="100%"/>
+      </a>
       <h3>🏗️ <a href="https://binayaksuppliers.vercel.app/ne">Binayak Suppliers</a></h3>
       <p><strong>Construction Materials Business Website</strong></p>
       <p>A bilingual (Nepali/English) business website for Binayak Suppliers, a trusted construction materials provider in Jhapa, Nepal. Showcasing 10+ years of service, 5000+ satisfied customers, and quality products like cement, rods, pipes, paints, and electrical supplies.</p>
