@@ -162,10 +162,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top" colspan="2" align="center">
-      <a href="https://binayaksuppliers.vercel.app/ne">
-        <img src="https://image.thum.io/get/width/1200/crop/600/viewportWidth/1400/https://binayaksuppliers.vercel.app/ne" alt="Binayak Suppliers Screenshot" width="100%"/>
+      <a href="https://binayaksuppliers.com.np/ne">
+        <img src="https://image.thum.io/get/width/1200/crop/600/viewportWidth/1400/https://binayaksuppliers.com.np/ne" alt="Binayak Suppliers Screenshot" width="100%"/>
       </a>
-      <h3>🏗️ <a href="https://binayaksuppliers.vercel.app/ne">Binayak Suppliers</a></h3>
+      <h3>🏗️ <a href="https://binayaksuppliers.com.np/ne">Binayak Suppliers</a></h3>
       <p><strong>Construction Materials Business Website</strong></p>
       <p>A bilingual (Nepali/English) business website for Binayak Suppliers, a trusted construction materials provider in Jhapa, Nepal. Showcasing 10+ years of service, 5000+ satisfied customers, and quality products like cement, rods, pipes, paints, and electrical supplies.</p>
       <p>
@@ -173,7 +173,7 @@
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
       </p>
-      <p>🔗 <a href="https://binayaksuppliers.vercel.app/ne">Live Demo</a></p>
+      <p>🔗 <a href="https://binayaksuppliers.com.np/ne">Live Demo</a></p>
     </td>
   </tr>
 </table>
